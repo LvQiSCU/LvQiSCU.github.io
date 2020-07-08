@@ -1,8 +1,8 @@
-+ Qi lü (吕琦)
+Qi lü (吕琦)  
 
-+ School of Mathematics, Sichuan University, Chengdu 610064, China
+School of Mathematics, Sichuan University, Chengdu 610064, China  
 
-+ E-mail: luqi59@163.com
+E-mail: luqi59@163.com  
 
 
 
