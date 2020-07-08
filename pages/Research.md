@@ -80,4 +80,4 @@
 
 2. X. Fu, Q. Lü and X. Zhang, Carleman estimates for second order partial differential operators and applications. A unified approach. Springer, Cham, 2019.
 
-3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, Cham, 2020.
+3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, 2020.
