@@ -308,9 +308,13 @@ footer {
 }
 
 @media print, screen and (max-width:580px) {
-  header ul {
-    top: 11px;
+  
+  header p {
+    text-align: left;
   }
+}
+
+@media print, screen and (max-width:580px) {
   
   header p {
     width:100%;
