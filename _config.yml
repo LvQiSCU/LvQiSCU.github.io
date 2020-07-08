@@ -4,9 +4,7 @@ description:  School of Mathematics, Sichuan University, China.
 copyright  : © 2018 - 2020 lvqi.github.io All Rights Reserved
 
 nav:
- - name: 中文
+ - name: Home
    link: /
- - name: 编程人生
-   link: /pages/coding-life.html
- - name: En
-   link: /pages/readme-en.html
+ - name: Research
+   link: /pages/Research.html
