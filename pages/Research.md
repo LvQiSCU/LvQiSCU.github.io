@@ -1,16 +1,3 @@
-## Academic Honors and Awards
-
-1. Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society).
-
-2. CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics).
-
-## Editorial Board
-
-1. SIAM Journal on Control and Optimization. Associate editor. Since 2018.
-2. ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018.
-3. Systems & Control Letters. Associate editor. Since 2016.
-4. Mathematical Control and Related Fields. Associate editor. Since 2012.
-
 ## Publications
 
 ### Articles
