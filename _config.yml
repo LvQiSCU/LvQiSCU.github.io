@@ -1,3 +1,12 @@
-theme: jekyll-theme-minimal
-title: Prof. Qi Lü
-description:  School of Mathematics, Sichuan University, China.
+title      : scott.cgi
+lang       : zh
+description: 编程写作 / 迭代认知 / 执行计划
+copyright  : © 2018 - 2020 scott.cgi All Rights Reserved
+
+nav:
+ - name: 中文
+   link: /
+ - name: 编程人生
+   link: /pages/coding-life.html
+ - name: En
+   link: /pages/readme-en.html
