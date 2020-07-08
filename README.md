@@ -1,4 +1,4 @@
-Qi lü (吕琦)  
+Qi Lü (吕琦)  
 
 School of Mathematics, Sichuan University, Chengdu 610064, China  
 
