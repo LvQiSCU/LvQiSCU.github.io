@@ -68,7 +68,7 @@
 
 33.  Lü, Qi; Wang, Tianxiao; Zhang, Xu Characterization of optimal feedback for stochastic linear quadratic control problems. Probab. Uncertain. Quant. Risk 2 (2017), Paper No. 11, 20 pp.
 
-34.  Lü, Qi; Yong, Jiongmin; Zhang, Xu Erratum to "Representation of Itô integrals by Lebesgue/Bochner integrals'' (J. Eur. Math. Soc. 14, 1795–1823 (2012)) . J. Eur. Math. Soc. (JEMS) 20 (2018), no. 1, 259–260.
+34.  Lü, Qi; Yong, Jiongmin; Zhang, Xu Erratum to "Representation of Itô integrals by Lebesgue/Bochner integrals" (J. Eur. Math. Soc. 14, 1795–1823 (2012)) . J. Eur. Math. Soc. (JEMS) 20 (2018), no. 1, 259–260.
 
 35. Lü, Qi; Zhang, Xu Operator-valued backward stochastic Lyapunov equations in infinite dimensions, and its application. Math. Control Relat. Fields 8 (2018), no. 1, 337–381.
 
