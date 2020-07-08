@@ -18,8 +18,8 @@ E-mail: lu@scu.edu.cn
 
 ## Education
 
-* 09.2007 – 06.2010 PhD Student in School of Mathematics, Sichuan University
+* 09.2007–06.2010 PhD Student in School of Mathematics, Sichuan University
 
-* 09.2004 – 06.2007 Master Degree, School of Mathematics, Sichuan University.
+* 09.2004–06.2007 Master Degree, School of Mathematics, Sichuan University.
 
-* 09.2000 – 06.2004 Bachelor Degree, University of Electronic Science and Technology of China.
+* 09.2000–06.2004 Bachelor Degree, University of Electronic Science and Technology of China.
