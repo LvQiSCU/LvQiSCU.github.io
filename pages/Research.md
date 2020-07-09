@@ -32,7 +32,7 @@
 
 15. Q. Lü, *Observability estimate and state observation problems for stochastic hyperbolic equations*. Inverse Problems. 29(2013), 095001. [[Article](https://doi.org/10.1088/0266-5611/29/9/095011){:target="_blank"}]
 
-16. Q. Lü,  Z, Yin, *The L∞-null controllability of parabolic equation with equivalued surface boundary conditions*. Asymptotic Analysis. 83 (2013), 355–378. [[Article](https://content.iospress.com/articles/asymptotic-analysis/asy1167){:target="_blank"}]
+16. Q. Lü,  Z, Yin, *The \\(L^\infty\\)-null controllability of parabolic equation with equivalued surface boundary conditions*. Asymptotic Analysis. 83 (2013), 355–378. [[Article](https://content.iospress.com/articles/asymptotic-analysis/asy1167){:target="_blank"}]
 
 17. Q. Lü,  Z, Yin, *Recent progress on observability for stochastic partial differential equations. Emerging topics on differential equations and their applications*, 94–108, Nankai Series in Pure, Applied Mathematics and Theoretical Physics, 10, World Sci. Publ., Hackensack, NJ, 2013. [[Article](https://doi.org/10.1142/9789814449755_0008){:target="_blank"}]
 
@@ -69,7 +69,7 @@
 
 33. Q. Lü, X. Zhang, *Operator-valued backward stochastic Lyapunov equations in infinite dimensions, and its application*. Mathematical Control & Related Fields. 8 (2018), 337–381.  [[Article](https://doi.org/10.3934/mcrf.2018014){:target="_blank"}]
 
-34. Q. Lü,  J van Neerven, *On conditional expectations in \\(L^p(\mu,;L^q(\nu,;X))\\)*. Positivity. 23 (2019), 11–19.   [[Article](https://doi.org/10.1007/s11117-018-0589-y){:target="_blank"}]
+34. Q. Lü,  J van Neerven, *On conditional expectations in \\(L^p(\mu;L^q(\nu;X))\\)*. Positivity. 23 (2019), 11–19.   [[Article](https://doi.org/10.1007/s11117-018-0589-y){:target="_blank"}]
 
 35. F. Dou and Q. Lü, *Partial approximate controllability for linear stochastic control systems*. SIAM Journal on Control and Optimization. 57 (2019), 1209–1229.  [[Article](https://doi.org/10.1137/18M1164640){:target="_blank"}]
 
