@@ -10,9 +10,9 @@ E-mail: lu@scu.edu.cn
 
 * 03.2014–now, full professor, School of Mathematics, Sichuan University.
 
-* 07.2012-03.2014, Associate Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu 611731, China.
+* 07.2012-03.2014, Associate Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China.
 
-* 07.2010–07.2012, Assistant Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China, Chengdu 611731, China.
+* 07.2010–07.2012, Assistant Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China.
 
 
 
