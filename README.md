@@ -121,6 +121,7 @@ E-mail: lu@scu.edu.cn
 
 3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, 2020.
 
+<p></p>
 
 <h2 id="Honors">Academic Honors and Awards</h2>
 
@@ -129,8 +130,9 @@ E-mail: lu@scu.edu.cn
 
 2. CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics).
 
+<p></p>
 
-<h2 id="Honors">Editorial Boards</h2>
+<h2 id="Editorial-Boards">Editorial Boards</h2>
 
 1. SIAM Journal on Control and Optimization. Associate editor. Since 2018.
 
