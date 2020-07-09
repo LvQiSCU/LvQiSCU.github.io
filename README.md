@@ -25,10 +25,7 @@ E-mail: lu@scu.edu.cn
 * 09.2000–06.2004 Bachelor Degree, University of Electronic Science and Technology of China.
 
 
-<div id="Publications">div1</div>
-
-
-## Publications
+<h2 id="Publications">Publications</h2>
 
 ### Articles
 
@@ -125,14 +122,15 @@ E-mail: lu@scu.edu.cn
 3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, 2020.
 
 
-## Academic Honors and Awards
+<h2 id="Honors">Academic Honors and Awards</h2>
+
 
 1. Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society).
 
 2. CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics).
 
 
-## Editorial Board
+<h2 id="Honors">Editorial Boards</h2>
 
 1. SIAM Journal on Control and Optimization. Associate editor. Since 2018.
 
