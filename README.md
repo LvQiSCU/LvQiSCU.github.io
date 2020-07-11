@@ -136,8 +136,8 @@ E-mail: lu@scu.edu.cn
 
 1. SIAM Journal on Control and Optimization. Associate editor. Since 2018.
 
-2. ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018.
+2. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
 
-3. Systems & Control Letters. Associate editor. Since 2016.
+3. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
 
 4. Mathematical Control and Related Fields. Associate editor. Since 2012.
