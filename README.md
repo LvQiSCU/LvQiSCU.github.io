@@ -126,9 +126,9 @@ E-mail: lu@scu.edu.cn
 <h2 id="Honors">Academic Honors and Awards</h2>
 
 
-1. Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society).
+1. [Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society)](http://www.cms.org.cn/prize_17.html){:target="_blank"}.
 
-2. CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics).
+2. [CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics)](https://www.csiam.org.cn/home/article/detail/id/1020.html){:target="_blank"}.
 
 <p></p>
 
