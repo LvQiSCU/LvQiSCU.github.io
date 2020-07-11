@@ -134,7 +134,7 @@ E-mail: lu@scu.edu.cn
 
 <h2 id="Editorial-Boards">Editorial Boards</h2>
 
-1. SIAM Journal on Control and Optimization. Associate editor. Since 2018.
+1. [SIAM Journal on Control and Optimization. Associate editor. Since 2018](http://evoq-eval.siam.org/Publications/Journals/SIAM-Journal-on-Control-and-Optimization-SICON/Editorial-Board){:target="_blank"}.
 
 2. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
 
