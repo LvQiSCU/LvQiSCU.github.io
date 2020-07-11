@@ -140,4 +140,4 @@ E-mail: lu@scu.edu.cn
 
 3. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
 
-4. Mathematical Control and Related Fields. Associate editor. Since 2012.
+4. [Mathematical Control and Related Fields. Associate editor. Since 2012](https://www.aimsciences.org/journal/2156-8472/editorialboard){:target="_blank"}.
