@@ -112,6 +112,15 @@ E-mail: lu@scu.edu.cn
 
 41. X. Liu, Q. Lü and X. Zhang, *Finite codimensional controllability and optimal control problems with endpoint state constraints*. Journal de Mathématiques Pures et Appliquées. 138 (2020), 164–203.  [[Article](https://doi.org/10.1016/j.matpur.2020.03.004){:target="_blank"}]
 
+42. Q. Lü and Z. Yin, Local state observation for stochastic hyperbolic equations. ESAIM Control, Optimisation and Calculus of Variations. [[Article](https://doi.org/10.1051/cocv/2019049){:target="_blank"}]
+
+43. Q. Lü, H. Zhang and X. Zhang, Second order optimality conditions for optimal control problems of stochastic evolution equations. arXiv:1811.07337 [[Article](https://arxiv.org/abs/1811.07337){:target="_blank"}]
+
+44. Q. Lü and X. Zhang, Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions, arXiv:1901.00978 [[Article](https://arxiv.org/abs/1901.00978){:target="_blank"}]
+
+45. Q. Lü and X. Zhang,  Exact controllability for a refined stochastic wave equation, arXiv:1901.06074 [[Article](https://arxiv.org/abs/1901.06074){:target="_blank"}]
+
+
 
 ### Books
 
