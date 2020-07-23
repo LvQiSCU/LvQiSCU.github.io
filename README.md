@@ -27,6 +27,14 @@ E-mail: lu@scu.edu.cn
 
 <h2 id="Publications">Publications</h2>
 
+### Books
+
+1. Q. Lü and X. Zhang, General Pontryagin-type stochastic maximum principle and backward stochastic evolution equations in inﬁnite dimensions. Springer, Cham, 2014. [[Book](https://doi.org/10.1007/978-3-319-06632-5){:target="_blank"}]
+
+2. X. Fu, Q. Lü and X. Zhang, Carleman estimates for second order partial differential operators and applications. A unified approach. Springer, Cham, 2019.  [[Book](https://doi.org/10.1007/978-3-030-29530-1){:target="_blank"}]
+
+3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, 2020.
+
 ### Articles
 
 1. H. Li, Q. Lü, X. Zhang, *Recent progress on controllability/observability for systems governed by partial differential equations*. Journal of Systems Science and Complexity. 23 (2010), 527–545.  [[Article](https://doi.org/10.1007/s11424-010-0144-9){:target="_blank"}]
@@ -114,30 +122,24 @@ E-mail: lu@scu.edu.cn
 
 42. Q. Lü and Z. Yin, Local state observation for stochastic hyperbolic equations. ESAIM Control, Optimisation and Calculus of Variations. https://doi.org/10.1051/cocv/2019049 [[Article](https://doi.org/10.1051/cocv/2019049){:target="_blank"}]
 
-43. Q. Lü, H. Zhang and X. Zhang, Second order optimality conditions for optimal control problems of stochastic evolution equations. arXiv:1811.07337 [[Article](https://arxiv.org/abs/1811.07337){:target="_blank"}]
 
-44. Q. Lü and X. Zhang, Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions, arXiv:1901.00978 [[Article](https://arxiv.org/abs/1901.00978){:target="_blank"}]
+### Preprints
 
-45. Q. Lü and X. Zhang,  Exact controllability for a refined stochastic wave equation, arXiv:1901.06074 [[Article](https://arxiv.org/abs/1901.06074){:target="_blank"}]
+1. Q. Lü, H. Zhang and X. Zhang, Second order optimality conditions for optimal control problems of stochastic evolution equations. arXiv:1811.07337 [[Article](https://arxiv.org/abs/1811.07337){:target="_blank"}]
 
+2. Q. Lü and X. Zhang, Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions, arXiv:1901.00978 [[Article](https://arxiv.org/abs/1901.00978){:target="_blank"}]
 
+3. Q. Lü and X. Zhang,  Exact controllability for a refined stochastic wave equation, arXiv:1901.06074 [[Article](https://arxiv.org/abs/1901.06074){:target="_blank"}]
 
-### Books
-
-1. Q. Lü and X. Zhang, General Pontryagin-type stochastic maximum principle and backward stochastic evolution equations in inﬁnite dimensions. Springer, Cham, 2014. [[Book](https://doi.org/10.1007/978-3-319-06632-5){:target="_blank"}]
-
-2. X. Fu, Q. Lü and X. Zhang, Carleman estimates for second order partial differential operators and applications. A unified approach. Springer, Cham, 2019.  [[Book](https://doi.org/10.1007/978-3-030-29530-1){:target="_blank"}]
-
-3. Q. Lü and X. Zhang, Mathematical theory for stochastic distributed parameter control systems. In press, Springer, 2020.
 
 <p></p>
 
 <h2 id="Honors">Academic Honors and Awards</h2>
 
 
-1. [Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society)](http://www.cms.org.cn/prize_17.html){:target="_blank"}.
+1. Zhong Jiaqing Mathematics Award (from Chinese Mathematical Society) [[Link](http://www.cms.org.cn/prize_17.html){:target="_blank"}].
 
-2. [CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics)](https://www.csiam.org.cn/home/article/detail/id/1020.html){:target="_blank"}.
+2. CSIAM Youth Science Award of Applied Mathematics (from China Society for Industrial and Applied Mathematics) [[Link](https://www.csiam.org.cn/home/article/detail/id/1020.html){:target="_blank"}].
 
 <p></p>
 
