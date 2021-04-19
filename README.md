@@ -10,11 +10,13 @@ E-mail: lu@scu.edu.cn
 
 * 03.2014–now, full professor, School of Mathematics, Sichuan University.
 
+* 01.2013–01.2014, Post-doc fellow under the supervision of Prof. Jean-Michel Coron in Laboratoire Jacques-Louis Lions, Université Pierre et Marie Curie-Paris VI.
+
 * 07.2012-03.2014, Associate Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China.
 
 * 07.2010–07.2012, Assistant Professor, School of Mathematical Sciences, University of Electronic Science and Technology of China.
 
-
+* 04.2011–04.2012, Post-doc fellow under the supervision of Prof. Enrique Zuazua in Basque Center for Applied Mathematics, Spain.
 
 ## Education
 
