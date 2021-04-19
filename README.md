@@ -124,6 +124,10 @@ E-mail: lu@scu.edu.cn
 
 42. Q. Lü and Z. Yin, Local state observation for stochastic hyperbolic equations. ESAIM Control, Optimisation and Calculus of Variations. https://doi.org/10.1051/cocv/2019049 [[Article](https://doi.org/10.1051/cocv/2019049){:target="_blank"}]
 
+43. Q. Lü, Stochastic linear quadratic optimal control problems for mean-field stochastic evolution equations, ESAIM: Control, Optimisation and Calculus of Variations. 26 (2020) 127. [[Article](https://doi.org/10.1051/cocv/2020081){:target="_blank"}]
+
+44. Q. Lü and X. Zhang, A concise introduction to control theory for stochastic partial differential equations, Mathematical Control & Related Fields. 0 (2021) 0.[[Article](https://doi.org/10.3934/mcrf.2021020){:target="_blank"}] 
+
 
 ### Preprints
 
