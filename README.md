@@ -127,17 +127,42 @@ E-mail: lu@scu.edu.cn
 
 43. Q. Lü, *Stochastic linear quadratic optimal control problems for mean-field stochastic evolution equations*. ESAIM: Control, Optimisation and Calculus of Variations. 26 (2020) 127. [[Article](https://doi.org/10.1051/cocv/2020081){:target="_blank"}]
 
-44. Q. Lü and X. Zhang, *A concise introduction to control theory for stochastic partial differential equations*. Mathematical Control & Related Fields. 0 (2021) 0.[[Article](https://doi.org/10.3934/mcrf.2021020){:target="_blank"}] 
+44. Q. Lü, H. Zhang and X. Zhang,  *Second order optimality conditions for optimal control problems of stochastic evolution equations*.  SIAM Journal on Control and Optimization 59 (2021), no. 4, 2924–2954. [[Article](https://doi.org/10.1137/20M1343762){:target="_blank"}] 
+
+45. Q. Lü and X. Zhang, *Control theory for stochastic distributed parameter systems, an engineering perspective*. Annual Reviews in Control. 51 (2021), 268–330.  [[Article](https://doi.org/10.1016/j.arcontrol.2021.04.002){:target="_blank"}] 
+
+46. H. Frankowska and Q. Lü, *Second order necessary conditions for optimal control problems of evolution equations involving final point equality constraints*. ESAIM. Control, Optimisation and Calculus of Variations. 27 (2021), Paper No. 71, 38 pp. [[Article](https://doi.org/10.1051/cocv/2021065){:target="_blank"}] 
+
+47. Q. Lü and Y. Wang, *Null controllability for fourth order stochastic parabolic equations*. SIAM Journal on Control and Optimization. 60 (2022), no. 3, 1563–1590. [[Article](https://doi.org/10.1137/22M1472620){:target="_blank"}] 
+
+48.  Q. Lü, P. Wang, Y. Wang and X. Zhang, *Numerics for stochastic distributed parameter control systems: a finite transposition method*. Handbook of Numerical Analysis 23 North-Holland, Amsterdam, 2022, 201–232. [[Article](https://doi.org/10.1016/bs.hna.2021.12.006){:target="_blank"}] 
+
+49. Q. Lü and X. Zhang, *A concise introduction to control theory for stochastic partial differential equations*. Mathematical Control & Related Fields. 0 (2022) 0. [[Article](https://doi.org/10.3934/mcrf.2021020){:target="_blank"}] 
+
+50. L. Chen and Q. Lü, *Relationships between the maximum principle and dynamic programming for infinite dimensional stochastic control systems*. Journal Differential Equations. 358 (2023), 103–146. [[Article](https://doi.org/10.1016/j.jde.2023.02.014){:target="_blank"}] 
+
+51. Q. Lü and T. Wang, *Optimal feedback controls of stochastic linear quadratic control problems in infinite dimensions with random coefficients*. Journal de Mathématiques Pures et Appliquées. 173 (2023), 195–242. [[Article](https://doi.org/10.1016/j.matpur.2023.02.010){:target="_blank"}]
+
+52. Q. Lü, *State observation for stochastic partial differential equations*. Series in Contemporary Applied Mathematics. CAM, 24 World Scientific Publishing Co. Pte. Ltd., Hackensack, NJ, 2023, 165–250.  [[Article](https://doi.org/10.1142/9789811271632_0003){:target="_blank"}] 
+
+53. X. Fu, Z. Liao and Q. Lü,  *Sharp observability inequalities for hyperbolic systems with potentials*. ESAIM. Control, Optimisation and Calculus of Variations. 29 (2023), Paper No. 88, 29 pp. [[Article](https://doi.org/10.1051/cocv/2023087){:target="_blank"}]  
+
+54. Q. Lü, *Control theory of stochastic distributed parameter systems: recent progress and open problems*. EMS Press, Berlin, 2023, 5314–5338. [[Article](https://doi.org/10.4171/ICM2022/57){:target="_blank"}]   
+
+55. Q. Lü and B. Ma, *Time-inconsistent stochastic linear-quadratic control problem with indefinite control weight costs*. Science China. Mathematics. 67 (2024), no. 1, 211–236. [[Article](https://doi.org/10.1007/s11425-022-2106-6){:target="_blank"}]    
+
+56. Q. Lü and X. Zhang, *Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions*. Memoirs of the American Mathematical Society. 294 (2024), no. 1467, v+107 pp.   
+
+57. Z. Liao and Q. Lü,  *Exact controllability for a refined stochastic wave equation. SIAM Journal on Control and Optimization*. 62 (2024), no. 1, 563–580. [[Article](https://doi.org/10.1137/22M1537680){:target="_blank"}]  
+
+58. Z. Liao and Q. Lü,  *Stability estimate for an inverse stochastic parabolic problem of determining unknown time-varying boundary*. Inverse Problems. (2024). [[Article](https://doi.org/10.1088/1361-6420/ad2d72){:target="_blank"}]   
 
 
 ### Preprints
 
-1. Q. Lü, H. Zhang and X. Zhang, Second order optimality conditions for optimal control problems of stochastic evolution equations. arXiv:1811.07337 [[Article](https://arxiv.org/abs/1811.07337){:target="_blank"}]
+1. Z. Li and Q. Lü, *Carleman estimates for second order elliptic operators with limiting weights, an elementary approach*.  arXiv:2310.00700. [[Article](https://arxiv.org/abs/2310.00700){:target="_blank"}]
 
-2. Q. Lü and X. Zhang, Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions, arXiv:1901.00978 [[Article](https://arxiv.org/abs/1901.00978){:target="_blank"}]
-
-3. Q. Lü and X. Zhang,  Exact controllability for a refined stochastic wave equation, arXiv:1901.06074 [[Article](https://arxiv.org/abs/1901.06074){:target="_blank"}]
-
+2. Q. Lü and B. Ma, *Time-inconsistent linear quadratic optimal control problem for forward-backward stochastic differential equations*. arXiv:2312.08713. [[Article](https://arxiv.org/abs/2312.08713){:target="_blank"}]
 
 <p></p>
 
