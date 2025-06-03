@@ -151,11 +151,20 @@ E-mail: lu@scu.edu.cn
 
 55. Q. Lü and B. Ma, *Time-inconsistent stochastic linear-quadratic control problem with indefinite control weight costs*. Science China. Mathematics. 67 (2024), no. 1, 211–236. [[Article](https://doi.org/10.1007/s11425-022-2106-6){:target="_blank"}]    
 
-56. Q. Lü and X. Zhang, *Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions*. Memoirs of the American Mathematical Society. 294 (2024), no. 1467, v+107 pp.   
+56. Q. Lü and X. Zhang, *Optimal feedback for stochastic linear quadratic control and backward stochastic Riccati equations in infinite dimensions*. Memoirs of the American Mathematical Society. 294 (2024), no. 1467, v+107 pp.  [[Article](https://www.ams.org/books/memo/1467/){:target="_blank"}]  
 
-57. Z. Liao and Q. Lü,  *Exact controllability for a refined stochastic wave equation. SIAM Journal on Control and Optimization*. 62 (2024), no. 1, 563–580. [[Article](https://doi.org/10.1137/22M1537680){:target="_blank"}]  
+57. Z. Liao and Q. Lü,  *Exact controllability for a refined stochastic wave equation*. SIAM Journal on Control and Optimization. 62 (2024), no. 1, 563–580. [[Article](https://doi.org/10.1137/22M1537680){:target="_blank"}]  
 
-58. Z. Liao and Q. Lü,  *Stability estimate for an inverse stochastic parabolic problem of determining unknown time-varying boundary*. Inverse Problems. (2024). [[Article](https://doi.org/10.1088/1361-6420/ad2d72){:target="_blank"}]   
+58. Z. Liao and Q. Lü,  *Stability estimate for an inverse stochastic parabolic problem of determining unknown time-varying boundary*. Inverse Problems. 40 (2024), no. 4, Paper No. 045032, 41pp. [[Article](https://doi.org/10.1088/1361-6420/ad2d72){:target="_blank"}]   
+
+59. Q. Lü and X. Zhang,  *Inverse problems for stochastic partial differential equations: some progresses and open problems*. Numerical Algebra, Control and Optimization. 14 (2024), no. 2, 227-272. [[Article](https://doi.org/10.3934/naco.2023014){:target="_blank"}]   
+
+60. Q. Lü and B. Ma, *Time-inconsistent linear quadratic optimal control problem for forward-backward stochastic differential equations*. ESAIM. Control, Optimisation and Calculus of Variations. 30 (2024), Paper No. 76, 34pp. [[Article](https://doi.org/10.1051/cocv/2024064){:target="_blank"}]   
+
+61. Q. Lü, *Linear quadratic optimal control problems for stochastic evolution equations in infinite horizon*. Mathematical Control and Related Fields. 14 (2024), no. 4, 1334-1360. [[Article](https://doi.org/10.3934/mcrf.2024017){:target="_blank"}]   
+
+62. Z. Liao and Q. Lü,  *On inverse problems for mean field games with common noise via Carleman estimate*. Inverse Problems. 41 (2025), no. 4, Paper No. 045009, 21pp. [[Article](https://doi.org/10.1088/1361-6420/adc3b9){:target="_blank"}]  
+
 
 
 ### Preprints
@@ -177,10 +186,12 @@ E-mail: lu@scu.edu.cn
 
 <h2 id="Editorial-Boards">Editorial Boards</h2>
 
-1. [SIAM Journal on Control and Optimization. Associate editor. Since 2018](http://evoq-eval.siam.org/Publications/Journals/SIAM-Journal-on-Control-and-Optimization-SICON/Editorial-Board){:target="_blank"}.
+1. [Annals of Applied Probability. Associate editor. Since 2025](https://imstat.org/journals-and-publications/annals-of-applied-probability/){:target="_blank"}.
 
-2. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
+2. [SIAM Journal on Control and Optimization. Associate editor. Since 2018](http://evoq-eval.siam.org/Publications/Journals/SIAM-Journal-on-Control-and-Optimization-SICON/Editorial-Board){:target="_blank"}.
 
-3. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
+3. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
 
-4. [Mathematical Control and Related Fields. Associate editor. Since 2012](https://www.aimsciences.org/journal/2156-8472/editorialboard){:target="_blank"}.
+4. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
+
+5. [Mathematical Control and Related Fields. Associate editor. Since 2012](https://www.aimsciences.org/journal/2156-8472/editorialboard){:target="_blank"}.
