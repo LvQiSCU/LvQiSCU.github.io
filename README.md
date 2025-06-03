@@ -8,7 +8,7 @@ E-mail: lu@scu.edu.cn
 
 ## Working Experience
 
-* 03.2014–now, full professor, School of Mathematics, Sichuan University.
+* 03.2014–now, Full Professor, School of Mathematics, Sichuan University.
 
 * 01.2013–01.2014, Post-doc fellow under the supervision of Prof. Jean-Michel Coron in Laboratoire Jacques-Louis Lions, Université Pierre et Marie Curie-Paris VI.
 
