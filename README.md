@@ -171,8 +171,6 @@ E-mail: lu@scu.edu.cn
 
 1. Z. Li and Q. Lü, *Carleman estimates for second order elliptic operators with limiting weights, an elementary approach*.  arXiv:2310.00700. [[Article](https://arxiv.org/abs/2310.00700){:target="_blank"}]
 
-2. Q. Lü and B. Ma, *Time-inconsistent linear quadratic optimal control problem for forward-backward stochastic differential equations*. arXiv:2312.08713. [[Article](https://arxiv.org/abs/2312.08713){:target="_blank"}]
-
 <p></p>
 
 <h2 id="Honors">Academic Honors and Awards</h2>
