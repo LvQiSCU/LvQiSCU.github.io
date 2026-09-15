@@ -38,6 +38,8 @@ E-mail: lu@scu.edu.cn
 
 3. Q. Lü and X. Zhang, Mathematical control theory for stochastic partial differential equations. Probab. Theory Stoch. Model., 101, Springer, Cham, 2021.  [[Book](https://link.springer.com/book/10.1007/978-3-030-82331-3){:target="_blank"}] 
 
+4. Q. Lü and Y. Wang, Inverse Problems for Stochastic Partial Differential Equations. Springer, Singapore, 2026. [[Book](https://doi.org/10.1007/978-981-95-9047-6){:target="_blank"}]
+
 ### Articles
 
 1. H. Li, Q. Lü, X. Zhang, *Recent progress on controllability/observability for systems governed by partial differential equations*. Journal of Systems Science and Complexity. 23 (2010), 527–545.  [[Article](https://doi.org/10.1007/s11424-010-0144-9){:target="_blank"}]
@@ -165,11 +167,11 @@ E-mail: lu@scu.edu.cn
 
 62. Z. Liao and Q. Lü,  *On inverse problems for mean field games with common noise via Carleman estimate*. Inverse Problems. 41 (2025), no. 4, Paper No. 045009, 21pp. [[Article](https://doi.org/10.1088/1361-6420/adc3b9){:target="_blank"}]  
 
+63. Z. Li and Q. Lü, *Carleman estimates for second-order elliptic operators with limiting weights: an elementary approach*. Science China Mathematics. 69 (2026), no. 1, 251–268. [[Article](https://doi.org/10.1007/s11425-024-2413-4){:target="_blank"}]
 
+64. Z. Li, Z. Liao and Q. Lü, *Exact controllability for a refined stochastic hyperbolic equation with internal controls*. SIAM Journal on Control and Optimization. 64 (2026), no. 2, 931–958. [[Article](https://doi.org/10.1137/25M1750962){:target="_blank"}]
 
-### Preprints
-
-1. Z. Li and Q. Lü, *Carleman estimates for second order elliptic operators with limiting weights, an elementary approach*.  arXiv:2310.00700. [[Article](https://arxiv.org/abs/2310.00700){:target="_blank"}]
+65. Q. Lü, B. Ma and H. Wang, *Forward-backward stochastic linear-quadratic optimal controls: equilibrium strategies and nonsymmetric Riccati equations*. SIAM Journal on Control and Optimization. 64 (2026), no. 3, 1698–1729. [[Article](https://doi.org/10.1137/25M1753140){:target="_blank"}]
 
 <p></p>
 
@@ -184,12 +186,20 @@ E-mail: lu@scu.edu.cn
 
 <h2 id="Editorial-Boards">Editorial Boards</h2>
 
-1. [Annals of Applied Probability. Associate editor. Since 2025](https://imstat.org/journals-and-publications/annals-of-applied-probability/){:target="_blank"}.
+1. [CSIAM Transactions on Applied Mathematics. Associate editor. Since 2026](https://www.global-sci.com/csiam-am/about/editorial-board){:target="_blank"}.
 
-2. [SIAM Journal on Control and Optimization. Associate editor. Since 2018](http://evoq-eval.siam.org/Publications/Journals/SIAM-Journal-on-Control-and-Optimization-SICON/Editorial-Board){:target="_blank"}.
+2. [Advances in Differential Equations. Associate editor. Since 2025](https://ade-die.com/ADE/ade-current.html){:target="_blank"}.
 
-3. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
+3. [Communications in Mathematical Sciences. Associate editor. Since 2025](https://intlpress.com/site/pub/pages/journals/items/cms/_home/editorial/index.html){:target="_blank"}.
 
-4. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
+4. [Annals of Applied Mathematics. Associate editor. Since 2025](https://www.global-sci.com/aam/about/editorial-board){:target="_blank"}.
 
-5. [Mathematical Control and Related Fields. Associate editor. Since 2012](https://www.aimsciences.org/journal/2156-8472/editorialboard){:target="_blank"}.
+5. [Annals of Applied Probability. Associate editor. Since 2025](https://imstat.org/journals-and-publications/annals-of-applied-probability/){:target="_blank"}.
+
+6. [SIAM Journal on Control and Optimization. Associate editor. Since 2018](http://evoq-eval.siam.org/Publications/Journals/SIAM-Journal-on-Control-and-Optimization-SICON/Editorial-Board){:target="_blank"}.
+
+7. [ESAIM: Control, Optimisation and Calculus of Variations. Associate editor. Since 2018](https://www.esaim-cocv.org/about-the-journal/editorial-board){:target="_blank"}.
+
+8. [Systems & Control Letters. Associate editor. Since 2016](https://www.journals.elsevier.com/systems-and-control-letters/editorial-board){:target="_blank"}.
+
+9. [Mathematical Control and Related Fields. Associate editor. Since 2012](https://www.aimsciences.org/journal/2156-8472/editorialboard){:target="_blank"}.
